@@ -1,2 +1,2 @@
 # Engineering-Economics-Calculator
-Implemented here are several common engineering economics formulas to improve calculation speed. (Related to ECN801)
+Implemented here are several common economics formulas to improve calculation speed when practicing homework problems (created while taking course ECN801 at Ryerson University).
