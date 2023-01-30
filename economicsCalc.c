@@ -5,7 +5,8 @@ int main(void) {
 
 	int select;
 	
-	printf("1.  (P/A, i, N)  P given A\n\n2.  (A/P, i, N)  A given P\n\n3.  (P/F, i, N)  P given F\n\n4.  (F/P, i, N)  F given P\n\n5.  (A/F, i, N)  A given F\n\n6.  (F/A, i, N)  F given A\n\n7.  (A/G, i, N)  A given G\n\n8.  (P/G, i, N)  P given G\n\n");
+	printf("1.  (P/A, i, N)  P given A\n\n2.  (A/P, i, N)  A given P\n\n3.  (P/F, i, N)  P given F\n\n4.  (F/P, i, N)  F given P\n\n5." 
+	       + "(A/F, i, N)  A given F\n\n6.  (F/A, i, N)  F given A\n\n7.  (A/G, i, N)  A given G\n\n8.  (P/G, i, N)  P given G\n\n");
 	printf("\n");
 	scanf("%d", &select);
 	
