@@ -1,6 +1,10 @@
 #include <stdio.h>
 #include <math.h>
 
+// Created for personal use in the course ECN801 at Ryerson University
+// Improves calculation efficiency of practice problems by large margins
+// Fast analysis of possible outcomes with changing variables
+
 int main(void) {
 
 	int select;
